@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Football Dicoding</string>
+    <string name="list_match">Match</string>
+    <string name="list_team">Teams</string>
+    <string name="last_match">eventspastleague</string>
+    <string name="next_match">eventsnextleague</string>
+    <string name="last_match_text">Last Match</string>
+    <string name="next_match_text">Next Match</string>
+    <string name="favorite_text">Favorite</string>
+</resources>
